@@ -26,4 +26,4 @@ LittlePBX stores its own and organization specific configuration data in a mysql
 
 This repository contains the PHP source and shell scripts to set up and remove the system. These scripts have mysql commands for the database.
 
-This system will likely require a recent Asterisk version and perhaps a recent Debian or related version. It is hoped that someday there might be an APT package for this.
+This system will likely require a recent Asterisk version and perhaps a recent Debian or related version. It is hoped that someday there might be an APT package for this. This system should be designed to support FreeSWITCH as well as Asterisk, selecting the PBX type at installation.
